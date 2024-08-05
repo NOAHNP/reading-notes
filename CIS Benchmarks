@@ -1,0 +1,37 @@
+CIS Benchmarks
+What are three benefits of following CIS Benchmarks?
+
+Improved Security:
+CIS Benchmarks provide proven, tested security configurations that reduce vulnerabilities and increase protection against cyber-attacks. This includes hardening practices that make exploiting security flaws more difficult.
+Compliance with Industry Standards:
+Many regulations and compliance standards, such as GDPR, HIPAA, and PCI-DSS, require organizations to implement stringent security measures. Following CIS Benchmarks helps companies meet these requirements, facilitating audits and avoiding fines.
+Operational Efficiency:
+By following a standardized approach to security, organizations can simplify the management and maintenance of their IT systems. This reduces the complexity and cost of implementing customized security policies for different systems.
+
+
+What are the seven core categories of CIS Benchmarks?
+
+
+Access Control:
+Recommendations for managing who can access systems and data, including password policies and multi-factor authentication.
+System Configurations:
+Guidelines for securely configuring operating systems, servers, and network devices, such as disabling unnecessary services and applying security patches.
+Monitoring and Logging:
+Instructions on how to implement continuous monitoring and event logging to detect and respond to security incidents.
+Data Protection:
+Recommendations to ensure the confidentiality and integrity of data, including encryption and access control to sensitive data.
+Network Configuration:
+Guidelines for the secure configuration of network devices, such as firewalls, routers, and switches, to protect against network threats.
+Vulnerability Management:
+Procedures for identifying, assessing, and mitigating vulnerabilities in IT systems.
+Update Management:
+Practices to ensure that systems and applications are always up-to-date with the latest security patches.
+
+How would you convince your manager that applying CIS Benchmarks could fast-track your organization’s compliance?
+
+Accelerating Compliance:
+Explain that following CIS Benchmarks will help the company quickly meet regulatory requirements, avoiding potential sanctions and demonstrating a commitment to security to regulators and customers.
+Reducing Security Risk:
+Argue that implementing proven security configurations will significantly reduce the attack surface and decrease the likelihood of security incidents that can cause operational disruptions and reputational damage.
+Efficiency and Consistency:
+Highlight that CIS Benchmarks provide a standardized set of practices that facilitate IT security management, promoting consistency and efficiency in security operations, which can result in time and resource savings.
