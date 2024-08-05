@@ -1,0 +1,17 @@
+Readings: Cyber Risk Analysis
+Below you will find reading materials and additional resources that support today’s topic and the upcoming lecture.
+Review the Submission Instructions for guidance on completing and submitting this assignment.
+Reading
+Security and Risk Management
+Considering a bank ATM that allows users to access bank account balances. What measures can the ATM incorporate to cover the principles of the CIA triad?
+Confidentiality: Use encryption to protect data transmitted between the ATM and the bank’s server. Implement multifactor authentication to ensure that only authorized users can access account information.
+Integrity: Utilize hashing algorithms to ensure data is not altered during transmission. Implement software integrity checks to ensure that the ATM software has not been tampered with.
+Availability: Maintain redundant backups and a disaster recovery plan to ensure the ATM is available even in case of failures. Implement continuous monitoring and preventive maintenance to minimize downtime.
+2. Name three best practices that support the CIA triad.
+Separation of Duties: Ensure different people have distinct responsibilities to prevent abuse of power and fraud.
+Least Privilege: Ensure users only have the access necessary to perform their functions, minimizing the risk of unauthorized access to sensitive information.
+Encryption: Use encryption to protect data in transit and at rest, ensuring that only authorized users can access and modify the information.
+3. What are the three stages of the risk management lifecycle? What is each stage’s main goal or objective?
+Risk Assessment: Identify and evaluate assets, threats, and vulnerabilities. Main objective: understand the risks and their magnitude.
+Risk Analysis: Evaluate the identified risks qualitatively and quantitatively. Main objective: prioritize the risks and assign monetary values for informed decision-making.
+Risk Mitigation: Implement measures to reduce, transfer, or accept risks. Main objective: decrease the probability and impact of identified risks.
