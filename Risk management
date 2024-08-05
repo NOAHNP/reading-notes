@@ -1,0 +1,56 @@
+Risk management is crucial in personal and professional life, especially in industries like energy, healthcare, banking, insurance, and retail due to significant cybersecurity risks. Rapidly evolving risks necessitate effective and agile management. Let's dive a little bit...
+
+Device Security
+Both simple and advanced devices are part of daily life, needing security for their data and resources' Confidentiality, Integrity, and Availability (CIA).
+
+Information Security Risk Management
+Involves understanding, analyzing, and mitigating risks to help organizations achieve their security objectives. Essential for effective security decisions.
+
+CISSP Domain 1: Security and Risk Management
+The first of eight CISSP certification domains, updated in May 2021, includes:
+
+Professional ethics
+Security concepts
+Security governance principles
+Compliance and legal requirements
+Investigation types
+Security policies and guidelines
+Business Continuity requirements
+Personnel security policies
+Risk management concepts
+Threat modeling
+Supply Chain Risk Management
+Security awareness programs
+Security Model Objectives
+Support the organization's mission.
+Decisions based on risk tolerance.
+
+Security Goals
+Operational: Daily productivity and task-oriented.
+Tactical: Mid-term goals like firewall installation.
+Strategic: Long-term goals like implementing VPNs and integrating technologies.
+
+Security Fundamentals: CIA Triad
+Confidentiality: Prevent unauthorized disclosure.
+Integrity: Detect unauthorized modifications.
+Availability: Ensure reliable access to resources.
+
+Best Practices for CIA
+Separation of Duties: Prevents excessive power concentration.
+Mandatory Vacations: Prevents exclusive system control.
+Job Rotation: Cross-trains employees.
+Least Privilege: Minimal necessary access.
+Need to Know: Access only with clearance and necessity.
+Dual Control: Requires multiple people for tasks.
+
+Risk Management and CISSP
+Involves identifying, examining, measuring, mitigating, or transferring risks. Lifecycle includes assessment, analysis, mitigation, and ongoing monitoring.
+
+Risk Management Lifecycle
+Risk Assessment: Evaluate assets, threats, and vulnerabilities.
+Risk Analysis: Qualitative (subjective) and quantitative (objective).
+Risk Mitigation: Reduce, transfer, or accept risks.
+
+Security Governance and Policy
+Governance: Involves security strategies, goals, risk assessment.
+Security Policy: High-level document detailing the company's security philosophy and guidelines.
