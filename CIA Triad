@@ -1,0 +1,35 @@
+Readings: Data file encryption
+Below you will find reading materials and additional resources that support today’s topic and the upcoming lecture.
+Review the Submission Instructions for guidance on completing and submitting this assignment.
+Reading
+Applying The CIA Triad To Your Enterprise File Transfer
+What Are MD5, SHA-1, and SHA-256 Hashes, and How Do I Check Them?
+You have been made responsible for the company’s file server. How would you preserve the three elements of the CIA triad?
+
+Confidentiality:
+Encryption: Encrypt sensitive files to ensure that only authorized users can access the data. This can be done using tools like BitLocker for Windows or FileVault for macOS.
+Access Controls: Implement strict access controls using role-based access control (RBAC) or least privilege principles. Ensure that only those who need access to specific files can access them.
+User Authentication: Use strong authentication methods, such as multi-factor authentication (MFA), to verify the identity of users accessing the server.
+Integrity:
+Hashing: Utilize hashing algorithms (like SHA-256) to create unique hash values for files. By comparing the current hash value of a file with a previously known good hash, you can verify that the file has not been altered.
+Digital Signatures: Use digital signatures to verify the authenticity and integrity of files. This ensures that the file comes from a trusted source and has not been tampered with.
+Regular Audits: Conduct regular audits and checks on files to ensure they remain unchanged. Implement file integrity monitoring systems to automate this process.
+Availability:
+Backups: Regularly back up data to ensure that it can be restored in case of data loss or corruption. Use both on-site and off-site backups to protect against various types of disasters.
+Redundancy: Implement redundant systems and failover mechanisms to ensure that the file server remains available even if part of the system fails. Use RAID configurations and load balancers.
+Disaster Recovery Planning: Develop and regularly update a disaster recovery plan to quickly restore operations in case of a major incident. Conduct regular drills to ensure readiness.
+
+Explain how hashing verifies data integrity using non-technical terms.
+
+Hashing is like creating a unique fingerprint for a file. When you hash a file, you get a unique code. If even a tiny change is made to the file, its fingerprint changes completely. By comparing the fingerprint of a file now to its original fingerprint, you can see if the file has been altered. If the fingerprints match, the file is the same as before. If they don't, the file has been changed.
+
+
+How is hashing and encryption different?
+
+
+
+Hashing: Irreversible. Once data is hashed, you cannot convert the hash value back to the original data.
+Encryption: Reversible. Encrypted data can be decrypted back to its original form using the appropriate decryption key.
+
+Hashing: Produces a fixed-size hash value regardless of the input size (e.g., SHA-256 always produces a 256-bit hash value).
+Encryption: Produces an output size that is typically proportional to the input size (e.g., encrypting a 1MB file results in approximately a 1MB encrypted file).
