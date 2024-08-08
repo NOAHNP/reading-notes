@@ -1,0 +1,21 @@
+Readings: Protecting Data at Rest with Device Encryption
+Below you will find reading materials and additional resources that support today’s topic and the upcoming lecture.
+Review the Submission Instructions for guidance on completing and submitting this assignment.
+Reading
+Data Protection: Data In transit vs. Data At Rest
+From your day to day computer use, provide examples of when data is at rest and when it is in transit.
+
+Data at Rest:
+Personal documents stored on your computer.
+Photos saved on your smartphone or in a cloud storage service
+Data from your banking app, stored locally on the device until it's sent or updated.
+Data in Transit:
+Sending an email to a colleague.
+Uploading a document to Google Drive or Dropbox.
+Accessing your online bank account through a web browser.
+
+Explain the role data encryption with regards to the CIA triad.
+
+Confidentiality: Encryption ensures that only authorized individuals or systems can access the data.
+Integrity: Tools associated with encryption, such as digital signatures, ensure that data has not been altered during storage or transmission.
+Availability: Encryption should be implemented in a way that does not hinder the ability of authorized users to access the data, avoiding scenarios where data becomes inaccessible due to lost keys or system failures.
